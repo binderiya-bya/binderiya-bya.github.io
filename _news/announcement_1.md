@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+A full documentation on MINDSET is published on SSRN. 
