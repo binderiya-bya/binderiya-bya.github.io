@@ -406,8 +406,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-mindset-2-0-model-documentation-now-available-on-ssrn",
+          title: 'MINDSET 2.0 Model Documentation now available on SSRN.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
