@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A full documentation on MINDSET is published on SSRN. 
+A simple inline announcement with Markdown emoji! :sparkles: :smile:
