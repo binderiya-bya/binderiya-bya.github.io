@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a consultant economist at the [World Bank](https://www.worldbank.org/ext/en/home) working on macro climate modeling. As part of [MINDSET](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6188978), I help build and estimate a global simulation model evaluating how climate shocks and mitigation policies affect the global economy. I am currently applying the model to analyze macroeconomic and climate impacts for Tajikistan's Long-Term Low-Emissions Development Strategy 2050. 
+I'm a consultant economist at the [World Bank](https://www.worldbank.org/ext/en/home) working on macro climate modeling. As part of [MINDSET](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6188978), I help build and estimate a global simulation model evaluating how climate shocks and mitigation policies affect the global economy. I am currently applying the model to analyze macroeconomic and climate impacts for Tajikistan's [Long-Term Low-Emissions Development Strategy 2050](https://www.worldbank.org/en/country/tajikistan/publication/ccdr). 
 
 My research areas include applied macroeconomics, inclusive growth, and labor and demography. I am especially interested in how structural transitions reshape labor markets and how the associated costs and benefits are distributed across workers. A related paper on the gendered employment effects of climate mitigation in emerging economies is forthcoming in the [Journal of Economic Policy Reform](https://www.tandfonline.com/journals/gpre20).
 
