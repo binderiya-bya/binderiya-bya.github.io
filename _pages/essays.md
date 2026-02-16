@@ -2,7 +2,7 @@
 layout: default
 permalink: /essays/
 title: essays
-nav: true
+nav: false
 nav_order: 3
 pagination:
   enabled: true
