@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-02-16
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+MINDSET 2.0 Model Documentation now available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6188978).
